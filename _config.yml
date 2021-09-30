@@ -1,11 +1,14 @@
 title: Thomas Finley
-email: tfinley@gmail.com
 description: >-
   High variance normally distributed noise.
 baseurl: ""
 url: "https://tomfinley.github.io"
 twitter_username: ThomasWFinley
 github_username:  TomFinley
+
+author:
+  name: "Thomas Finley"
+  email: tfinley@gmail.com
 
 # Build settings
 theme: minima
@@ -25,3 +28,9 @@ exclude:
   - vendor/cache/
   - vendor/gems/
   - vendor/ruby/
+
+minima:
+  skin: dark
+  social_links:
+    github:  TomFinley
+    twitter: ThomasWFinley

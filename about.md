@@ -95,7 +95,14 @@ birth to our son Luke.
 
 [bing]: https://www.bing.com/
 
-I have some pastimes outside of computers and mathematics. My three major non-work hobbies are writing, astronomy, and photography. For reading, my favorite authors are [Twain][twain], [Vonnegut][vonnegut] (who died; so it goes), [Dostoevsky][dostoevsky], [Borges][borges], and [Tolkien][tolkien]. My favorite TV shows are the usual nerd fare for someone my age: [TNG][tng], [B5][b5], [Buffy][buffy], [Firefly][firefly], and [BSG][bsg]. My favorite composer is [Chopin][chopin]. As an experiment I have <a href="http://blog.tfinley.net/">created a blog</a> to host informal self-indulgent content.</p>
+I have some pastimes outside of computers and mathematics. My three major
+non-work hobbies are writing, astronomy, and photography. For reading, my
+favorite authors are [Twain][twain], [Vonnegut][vonnegut] (who died; so it
+goes), [Dostoevsky][dostoevsky], [Borges][borges], and [Tolkien][tolkien]. My
+favorite TV shows are the usual nerd fare for someone my age: [TNG][tng],
+[B5][b5], [Buffy][buffy], [Firefly][firefly], and [BSG][bsg]. My favorite
+composer is [Chopin][chopin]. As an experiment I have [created a blog][blog] to
+host informal self-indulgent content.
 
 <!-- TODO: The photo link is no longer functional. Do I have photos anywhere public anymore? -->
 
