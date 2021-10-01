@@ -1,16 +1,19 @@
 source "https://rubygems.org"
 
-gem "jekyll", "~> 4.2.1"
-#gem "minima", "~> 2.5"
-gem "minima", git: "https://github.com/jekyll/minima", ref: "3cdd14dff1216f561c68329e0b7420c2dc9b796a"
+#gem "jekyll", "~> 4.2.1"
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
-# gem "github-pages", group: :jekyll_plugins
+#gem "github-pages", group: :jekyll_plugins
+
+#gem "minima", "~> 2.5"
+gem "minima", git: "https://github.com/jekyll/minima", ref: "3cdd14dff1216f561c68329e0b7420c2dc9b796a"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
-  gem "jekyll-feed", "~> 0.12"
+  #gem "jekyll-feed", "~> 0.12"
+  gem "github-pages", "~> 219"
 end
+
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
 # and associated library.

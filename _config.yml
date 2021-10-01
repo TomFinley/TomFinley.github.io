@@ -2,10 +2,12 @@ title: Thomas Finley
 description: >-
   High variance normally distributed noise.
 baseurl: ""
+domain: "tomfinley.github.io"
 url: "https://tomfinley.github.io"
 twitter_username: ThomasWFinley
 github_username:  TomFinley
 show_excerpts: true
+markdown: kramdown
 
 author:
   name: "Thomas Finley"
