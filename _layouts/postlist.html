@@ -11,8 +11,6 @@ layout: default
 
   {% assign posts = site.categories[page.listcat] %}
 
-  <p>HELLO 2!! {{page.listcat}} has {{site.categories}}</p>
-
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
       <h2 class="post-list-heading">{{ page.list_title }}</h2>
