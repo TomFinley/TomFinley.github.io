@@ -1,6 +1,6 @@
 ---
 # We make this page and not home to suppress the post list.
-layout: home
+layout: page
 ---
 
 ![Tom Finley](tom.jpg){: width="250" height="250"
