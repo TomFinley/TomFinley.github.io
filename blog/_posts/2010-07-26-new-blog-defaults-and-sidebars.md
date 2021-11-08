@@ -45,15 +45,12 @@ Like everyone else and their dog I used WordPress, fortuitous timing as
 [WordPress 3.0][wordpress] just came out. I have no idea what that means and the
 release notes referenced features that meant nothing to me, but heck, 3.0 just
 looks prettier than 2.9. I wanted to use WordPress primarily because I read it
-was the software that integrated most easily with
-{% katex %}
-\LaTeX
-{% endkatex -%}
-, good for mathematical content. Setup is easy; their claims of a ["famous
-five-minute installation"][install] are pretty much spot on. I spent more time
-randomly generating passwords than I did actually installing the thing. I had
-only four posts in my other blog, so transfer wasn't difficult, images being the
-main annoyance.
+was the software that integrated most easily with $\LaTeX$, good for
+mathematical content. Setup is easy; their claims of a ["famous five-minute
+installation"][install] are pretty much spot on. I spent more time randomly
+generating passwords than I did actually installing the thing. I had only four
+posts in my other blog, so transfer wasn't difficult, images being the main
+annoyance.
 
 The real problem though, and where I spent nearly all my effort, is
 personalization of appearance. Sticking with the default theme seemed kind of

@@ -8,13 +8,14 @@ gem "jekyll-remote-theme"
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 #gem "github-pages", group: :jekyll_plugins
 
+# Consult with https://pages.github.com/versions/ ...
+
 #gem "minima", "~> 2.5"
 gem "minima", git: "https://github.com/jekyll/minima", ref: "7a326eb6df07ee6ee5305cfc1b28f7092037e67d"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   #gem "jekyll-feed", "~> 0.12"
   gem "github-pages", "~> 219"
-  gem 'jekyll-katex'
 end
 
 
