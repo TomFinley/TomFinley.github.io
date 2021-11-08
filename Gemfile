@@ -14,6 +14,7 @@ gem "minima", git: "https://github.com/jekyll/minima", ref: "7a326eb6df07ee6ee53
 group :jekyll_plugins do
   #gem "jekyll-feed", "~> 0.12"
   gem "github-pages", "~> 219"
+  gem 'jekyll-katex'
 end
 
 

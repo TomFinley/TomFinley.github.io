@@ -16,12 +16,15 @@ author:
 
 header_pages:
   - about.md
+  - notes.md
+  - blog.md
 
 # Build settings
 theme: minima
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
+  - jekyll-katex
 
 exclude:
   - README.md
