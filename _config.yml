@@ -8,6 +8,7 @@ twitter_username: ThomasWFinley
 github_username:  TomFinley
 show_excerpts: true
 markdown: kramdown
+remote_theme: jekyll/minima@7a326eb
 
 author:
   name: "Thomas Finley"
@@ -20,6 +21,7 @@ header_pages:
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
 exclude:
   - README.md

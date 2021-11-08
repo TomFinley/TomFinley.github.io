@@ -1,7 +1,7 @@
 GIT
   remote: https://github.com/jekyll/minima
-  revision: 3cdd14dff1216f561c68329e0b7420c2dc9b796a
-  ref: 3cdd14dff1216f561c68329e0b7420c2dc9b796a
+  revision: 7a326eb6df07ee6ee5305cfc1b28f7092037e67d
+  ref: 7a326eb6df07ee6ee5305cfc1b28f7092037e67d
   specs:
     minima (2.5.1)
       jekyll (>= 3.5, < 5.0)
@@ -278,6 +278,7 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages (~> 219)
+  jekyll-remote-theme
   minima!
   tzinfo (~> 1.2)
   tzinfo-data

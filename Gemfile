@@ -2,12 +2,14 @@ source "https://rubygems.org"
 
 #gem "jekyll", "~> 4.2.1"
 
+gem "jekyll-remote-theme"
+
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
 # uncomment the line below. To upgrade, run `bundle update github-pages`.
 #gem "github-pages", group: :jekyll_plugins
 
 #gem "minima", "~> 2.5"
-gem "minima", git: "https://github.com/jekyll/minima", ref: "3cdd14dff1216f561c68329e0b7420c2dc9b796a"
+gem "minima", git: "https://github.com/jekyll/minima", ref: "7a326eb6df07ee6ee5305cfc1b28f7092037e67d"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   #gem "jekyll-feed", "~> 0.12"
