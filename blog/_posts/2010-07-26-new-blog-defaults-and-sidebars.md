@@ -2,6 +2,7 @@
 layout: post
 title:  "New Blog: Defaults and Sidebars"
 date:   2010-07-26T22:58
+latex:  true
 ---
 
 This is my new blog site.
