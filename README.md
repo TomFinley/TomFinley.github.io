@@ -16,3 +16,12 @@ preferred mechanism for creating a Github pages site.
 
 you set up the bash script `test.sh`. If this is a fresh clone,
 then either set it as executable or just run it using `sh` whenever you need to.
+
+The [Jekyll docs][jekyll-docs] have information on Jekyll itself, with GitHub
+Pages specific information [here][gh-pages]. Questions can be posted
+[here][jekyll-talk].
+
+[jekyll-docs]: https://jekyllrb.com/docs/home
+[jekyll-gh]:   https://github.com/jekyll/jekyll
+[jekyll-talk]: https://talk.jekyllrb.com/
+[gh-pages]:    https://docs.github.com/en/pages
