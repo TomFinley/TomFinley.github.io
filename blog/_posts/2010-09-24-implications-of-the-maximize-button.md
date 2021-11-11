@@ -171,5 +171,5 @@ temptation to control every aspect of a task must become overwhelming.
 Naturally, in these applications, the "zoom" button (the green plus) acts like a
 maximize button.
 
-[latexit]: http://pierre.chachatelier.fr/programmation/latexit_en.php
+[latexit]:     http://pierre.chachatelier.fr/programmation/latexit_en.php
 [omnigraffle]: http://en.wikipedia.org/wiki/OmniGraffle

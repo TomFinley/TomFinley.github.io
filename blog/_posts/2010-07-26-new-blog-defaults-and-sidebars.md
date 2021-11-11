@@ -111,9 +111,9 @@ means for people to easily see what is present beyond that first post. At best,
 I've moved that one click away. I'm unsure how I'll solve this, but I
 emphatically do not want a right sidebar.
 
-[firstblog]: http://pkingzombiespy.blogspot.com
-[wordpress]: http://wordpress.org/
-[install]: http://codex.wordpress.org/Installing_WordPress
-[themes]: http://wordpress.org/extend/themes/
-[motion-theme]: http://85ideas.com/public-releases/wordpress-theme-motion/
+[firstblog]:       http://pkingzombiespy.blogspot.com
+[wordpress]:       http://wordpress.org/
+[install]:         http://codex.wordpress.org/Installing_WordPress
+[themes]:          http://wordpress.org/extend/themes/
+[motion-theme]:    http://85ideas.com/public-releases/wordpress-theme-motion/
 [twentyten-theme]: http://wordpress.org/extend/themes/twentyten

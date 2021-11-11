@@ -79,12 +79,12 @@ What if we could somehow limit the analysis to "good" photographs? It's unclear
 whether any of this could be put to any practical worth, but it's still
 interesting.
 
-[zoom-lens]: http://en.wikipedia.org/wiki/Zoom_lens
+[zoom-lens]:  http://en.wikipedia.org/wiki/Zoom_lens
 [prime-lens]: http://en.wikipedia.org/wiki/Prime_lens
-[dp-28-135]: http://www.the-digital-picture.com/Reviews/Canon-EF-28-135mm-f-3.5-5.6-IS-USM-Lens-Review.aspx
-[dp-70-300]: http://www.the-digital-picture.com/Reviews/Canon-EF-70-300mm-f-4.5-5.6-DO-IS-USM-Lens-Review.aspx
+[dp-28-135]:  http://www.the-digital-picture.com/Reviews/Canon-EF-28-135mm-f-3.5-5.6-IS-USM-Lens-Review.aspx
+[dp-70-300]:  http://www.the-digital-picture.com/Reviews/Canon-EF-70-300mm-f-4.5-5.6-DO-IS-USM-Lens-Review.aspx
 [dp-100-400]: http://www.the-digital-picture.com/Reviews/Canon-EF-100-400mm-f-4.5-5.6-L-IS-USM-Lens-Review.aspx
-[dp-10-22]: http://www.the-digital-picture.com/Reviews/Canon-EF-S-10-22mm-f-3.5-4.5-USM-Lens-Review.aspx
-[dp-50]: http://www.the-digital-picture.com/Reviews/Canon-EF-50mm-f-1.4-USM-Lens-Review.aspx
-[exifpy]: http://sourceforge.net/projects/exif-py/
+[dp-10-22]:   http://www.the-digital-picture.com/Reviews/Canon-EF-S-10-22mm-f-3.5-4.5-USM-Lens-Review.aspx
+[dp-50]:      http://www.the-digital-picture.com/Reviews/Canon-EF-50mm-f-1.4-USM-Lens-Review.aspx
+[exifpy]:     http://sourceforge.net/projects/exif-py/
 [cumulative]: http://en.wikipedia.org/wiki/Histogram#Cumulative_histogram

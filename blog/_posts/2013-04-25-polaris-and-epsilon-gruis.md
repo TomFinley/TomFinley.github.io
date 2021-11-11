@@ -103,5 +103,5 @@ especially concerning, since obviously any interview question that would lead
 you to reject colleagues you value is obviously unacceptable.
 
 [ms-interview]: http://en.wikipedia.org/wiki/Microsoft_interview
-[ranking]: http://www.atlasoftheuniverse.com/stars.html
-[apparent]: http://en.wikipedia.org/wiki/Apparent_magnitude
+[ranking]:      http://www.atlasoftheuniverse.com/stars.html
+[apparent]:     http://en.wikipedia.org/wiki/Apparent_magnitude

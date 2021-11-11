@@ -80,9 +80,9 @@ developed sense of social responsibility.
 
 ![Orion Credit](/assets/blog/orion-credit.png){: width=77 height=63 style="filter: invert();"}
 
-[orion]: http://macintoshgarden.org/games/orion
-[munafo]: http://www.mrob.com/pub/index.html
-[tng]: http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
+[orion]:      http://macintoshgarden.org/games/orion
+[munafo]:     http://www.mrob.com/pub/index.html
+[tng]:        http://en.wikipedia.org/wiki/Star_Trek:_The_Next_Generation
 [enterprise]: http://en.wikipedia.org/wiki/USS_Enterprise_%28NCC-1701-D%29
-[warp]: http://en.wikipedia.org/wiki/Warp_drive_%28Star_Trek%29
-[basilisk2]: http://basilisk.cebix.net/
+[warp]:       http://en.wikipedia.org/wiki/Warp_drive_%28Star_Trek%29
+[basilisk2]:  http://basilisk.cebix.net/
