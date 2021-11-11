@@ -62,7 +62,7 @@ the trip one day. Pretending my bedroom was a spaceship cabin and my computer
 the helm (naturally allowances were made to leave the room for the bathroom and
 food), I set my sights for Rigel Kent and accelerated to Warp 9. During the
 daylong journey I read, periodically corrected my course, and overnight I slept.
-Roughly a day later I arrived at Rigel Kent, whereupon I &"explored" all the
+Roughly a day later I arrived at Rigel Kent, whereupon I "explored" all the
 planets. I was oddly proud of myself for completing the journey, but the tedium
 did give the lie to the notion of Jean Luc Picard and company casually dropping
 by Earth from the far reaches with the same ease of someone today traveling from

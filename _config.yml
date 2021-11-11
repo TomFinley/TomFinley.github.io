@@ -17,6 +17,7 @@ author:
 header_pages:
   - about.md
   - notes.md
+  - publications.md
   - blog.md
 
 # Build settings
