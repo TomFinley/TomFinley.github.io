@@ -21,7 +21,8 @@ header_pages:
   - projects.md
   - blog.md
 
-permalink: /:categories/:year/:title:output_ext
+permalink_old: /:categories/:year/:title:output_ext
+permalink: /:categories/:year/:title
 
 # Build settings
 theme: minima
@@ -47,4 +48,9 @@ minima:
   skin: dark
   social_links:
     github:  TomFinley
+    gitlab:
+     - username: TFinley
+       instance: gitlab.com
     twitter: ThomasWFinley
+    facebook: thomas.finley.921
+    linkedin: thomas-finley-a39b203
