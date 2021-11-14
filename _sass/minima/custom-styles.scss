@@ -1,1 +1,11 @@
-.social-media-list { display: flow-root; float: right; }
+.social-media-list {
+    display: block;
+    float: right;
+}
+.contact-list {
+    display: block;
+    float: left;
+}
+.site-footer {
+    padding: 10px 0;
+}
