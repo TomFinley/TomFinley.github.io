@@ -21,6 +21,8 @@ header_pages:
   - projects.md
   - blog.md
 
+permalink: /:categories/:year/:title:output_ext
+
 # Build settings
 theme: minima
 plugins:

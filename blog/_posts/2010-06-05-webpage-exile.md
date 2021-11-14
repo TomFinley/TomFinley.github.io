@@ -5,7 +5,7 @@ date:   2010-06-05T00:30
 ---
 About one month ago, I received an unwelcome notification from Cornell's CS
 department that they intended to close my account and delete the associated
-data.  This was something I had expected for some time: I had defended and
+data. This was something I had expected for some time: I had defended and
 graduated a year and a half prior, and I didn't expect the department to host my
 account indefinitely. I'm surprised they kept on as long as they did. However,
 it did present a practical problem, as Cornell still hosted my personal webpage.
