@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About Me
-permalink: /about/
 ---
 
 I live in Bellevue, Washington with my wife Megan, daughter Aurora, son Luke,

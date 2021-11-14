@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Publications
-permalink: /publications/
 ---
 
 I received my PhD from Cornell University under my advisor, [Thorsten

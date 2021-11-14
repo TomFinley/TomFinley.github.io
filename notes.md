@@ -1,7 +1,6 @@
 ---
 layout: page
 title: Notes
-permalink: /notes/
 ---
 
 These are some notes I compiled mostly in my academic career, often relevant to

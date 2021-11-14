@@ -18,6 +18,7 @@ header_pages:
   - about.md
   - notes.md
   - publications.md
+  - projects.md
   - blog.md
 
 # Build settings
