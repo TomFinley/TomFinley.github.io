@@ -1,29 +1,36 @@
 ---
 layout: page
-title: Research
+title: Publications & Research
+nav_title: Publications
 ---
 
 I received my PhD from Cornell University under my advisor, [Thorsten
-Joachims][tj].  As a graduate student my area of research was learning functions
+Joachims][tj]. As a graduate student my area of research was learning functions
 with structured outputs in domains requiring approximation inference algorithms,
-in particular structural SVMs.  When using approximations many of the
-theoretical guarantees of structured learning algorithms no longer hold and in
-practice the learned models are of inconsistent quality, and my thesis sought to
-provide new theory and empirical understanding to this area.
+in particular structural SVMs. When using approximations many of the theoretical
+guarantees of structured learning algorithms no longer hold and in practice the
+learned models are of inconsistent quality, and my thesis sought to provide new
+theory and empirical understanding to this area.
 
 In addition to my thesis topic, my graduate work has included supervised
 clustering, learning ranking, loopy MRF learning, approximate structural
 learning, data mining of the survey data from [Project FeederWatch][pfw], and
-working on the technical aspects of an interactive art/music exhibition.  While
-I was an undergrad at Duke, I worked with [Dr. Susan Rodger][rodger] on computer
-science education visualization tools.  This included in 2001 the [JAWAA
-editor][jawaa2], and in 2002 onward the totally new [JFLAP 4.0][jflap].
+working on the technical aspects of an interactive art/music exhibition.
+
+While I was an undergrad at Duke, I worked with [Dr. Susan Rodger][rodger] on
+computer science education visualization tools.  This included in 2001 the
+[JAWAA editor][jawaa2], and in 2002 onward the totally new [JFLAP 4.0][jflap].
+
+Descriptions and links to some of the software I wrote during my academic
+career, both undergraduate and doctorate, can be viewed at at my [page of
+projects][projs].
 
 [tj]:     http://www.cs.cornell.edu/people/tj/
 [rodger]: http://www.cs.duke.edu/~rodger/
 [jawaa2]: http://www.cs.duke.edu/csed/jawaa2/
 [jflap]:  http://www.cs.duke.edu/~rodger/tools/jflap/
 [pfw]:    http://birds.cornell.edu/pfw/
+[projs]:  {% link academic-projects.md %}
 
 In addition to browsing my [ACM publication
 profile](https://dl.acm.org/profile/81100568786) which is more or less complete,
