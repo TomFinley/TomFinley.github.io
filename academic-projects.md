@@ -1,12 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Academic Projects
 ---
 
-This describes my recent major (or minor and beloved) projects, and software
-that I have released for wider use.  Note that when I say "winter" I am
-referring to the first three months of the year, so Winter 2005 cannot mean
-December 2005.
+This describes major projects, and software that I released for wider use over
+the course of my academic career. Many are things I worked on for either my
+research or the school, but there are some personal projects as well.
 
 ## SVM<sup>*python*</sup> version 2
 
@@ -80,12 +79,6 @@ a Java applet in page.  Unfortunately browser support for this is somewhat
 
 [nwpf]: http://pallaspallas.googlepages.com/nwpf.html
 [nw]:   http://nexuswar.com/
-
-## SVM<sup>*latte*</sup>, A Super Secret Project
-
-This project is so secretive I can't even talk about it.  Either that or I can't
-be bothered to put anything sensible up yet.  One of the two, that's for sure.  
-*Fall 2005-present*
 
 ## SVM<sup>*cluster*</sup>, Supervised Clustering with Support Vector Machines (SVMs)
 
@@ -234,7 +227,7 @@ PDF, you can have a very pretty vector graphic of either an automata or an
 L-system rendering.
 
 For archival purposes I put my versions on [GitHub][jflap4-gh].  
-*Summer 2002-Summer 2003, minor dev. to present*
+*Summer 2002-Summer 2003, primarily*
 
 [jflap4]:    http://www.cs.duke.edu/~rodger/tools/jflap/
 [rodger]:    http://www.cs.duke.edu/~rodger/

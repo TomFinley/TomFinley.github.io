@@ -1,6 +1,7 @@
 title: Thomas Finley
 description: >-
-  High variance normally distributed noise.
+  The personal website of Thomas Finley, a software developer and machine
+  learning expert.
 baseurl: ""
 domain: "tomfinley.github.io"
 url: "https://tomfinley.github.io"
@@ -15,10 +16,8 @@ author:
   email: tfinley@gmail.com
 
 header_pages:
-  - about.md
-  - research.md
-  - projects.md
-  - notes.md
+  - publications.md
+  - academic-notes.md
   - blog.md
 
 permalink_old: /:categories/:year/:title:output_ext
