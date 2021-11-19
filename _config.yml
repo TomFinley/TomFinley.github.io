@@ -45,7 +45,7 @@ exclude:
   - vendor/ruby/
 
 minima:
-  skin: dark
+  skin: tom
   social_links:
     github:  TomFinley
     gitlab:

@@ -78,7 +78,7 @@ thousands of times the speed of the Soviet era hardware it was designed for
 Sorry I never sent you $7, but my ten year old brain didn't quite have a fully
 developed sense of social responsibility.
 
-![Orion Credit](/assets/blog/orion-credit.png){: width=77 height=63 style="filter: invert();"}
+![Orion Credit](/assets/blog/orion-credit.png){: .dark-invert width=77 height=63}
 
 [orion]:      http://macintoshgarden.org/games/orion
 [munafo]:     http://www.mrob.com/pub/index.html

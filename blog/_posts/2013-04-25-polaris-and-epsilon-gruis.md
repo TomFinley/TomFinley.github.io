@@ -4,7 +4,7 @@ title:  "Polaris and Epsilon Gruis"
 date:   2013-04-25T21:59
 ---
 
-One of my job responsibilities is [interviewing][ms-inverview] candidates.
+One of my job responsibilities is [interviewing][ms-interview] candidates.
 Finding talent is a high priority so I take it seriously, but I also enjoy it
 since it also gives me a chance to think about fun puzzles and problems
 (algorithmic, or otherwise). However, interesting problems are by themselves not
@@ -102,6 +102,6 @@ All were flummoxed even to the point of being unable to begin. The first is
 especially concerning, since obviously any interview question that would lead
 you to reject colleagues you value is obviously unacceptable.
 
-[ms-interview]: http://en.wikipedia.org/wiki/Microsoft_interview
+[ms-interview]: https://en.wikipedia.org/wiki/Coding_interview
 [ranking]:      http://www.atlasoftheuniverse.com/stars.html
 [apparent]:     http://en.wikipedia.org/wiki/Apparent_magnitude

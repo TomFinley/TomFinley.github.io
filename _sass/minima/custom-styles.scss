@@ -21,3 +21,9 @@
         text-align: center;
     }
 }
+
+@media (prefers-color-scheme: dark) {
+    .dark-invert {
+        filter: unquote("invert()");
+    }
+}
