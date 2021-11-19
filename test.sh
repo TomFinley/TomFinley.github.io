@@ -1,6 +1,7 @@
 #!/bin/bash
 
 bundle install && \
-  bundle exec jekyll serve
+  bundle exec jekyll serve --host `hostname -I`
 
-# Access http://127.0.0.1:4000/ to view this.
+# Also use --port to control the port if necessary.
+# Access the link that Jekyll displays under "Server address" once this script is run.

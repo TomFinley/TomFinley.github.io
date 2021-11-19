@@ -9,3 +9,21 @@
 .site-footer {
     padding: 10px 0;
 }
+
+.tom-image {
+    float: left;
+    padding-right: 10px;
+}
+@media screen and (max-width: 600px) {
+    .tom-image {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+}
+
+@media (prefers-color-scheme: dark) {
+    .dark-invert {
+        filter: unquote("invert()");
+    }
+}

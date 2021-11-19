@@ -3,8 +3,8 @@
 layout: page
 ---
 
-![Tom Finley](tom.jpg){: width="250" height="250"
-    style="float: left; padding-right: 10px;"}
+![Tom Finley](tom.jpg)
+{: .tom-image}
 
 I am a research software development engineer at Microsoft.  I live in
 Woodinvile, Washington, and work in Redmond.  In 2008 I received my PhD in
