@@ -92,7 +92,7 @@ customizations (though usually based off that root scheme).
   my notes pages on [two's complement][arch-twoscomp] and the [IEEE 754
   floating-point standard][arch-float]. In fact there are some direct links to
   the old locations, so I used [this advice to set up client-side
-  redirects][https://superdevresources.com/redirects-jekyll-github-pages/].
+  redirects][redirect].
 
 * Post-list pages now have the ability to have "pinned" posts via a `priority`
   tag which, if set, can "override" the standard date ordering of posts. I also
@@ -107,8 +107,8 @@ kind of funny. They've been around since 1997, and it's pretty clear their
 heart's no longer in it, exactly. I'm not dissatisfied with them, per se. Given
 that I have no real needs I have no cause for complaints. However, given that
 I'm doing a major shift anyway and no longer need anything with PHP or
-databases, I decided to drop them. That said, I will describe them, because I
-think it's kind of funny.
+databases, I decided to drop them. That said, I will describe them, because,
+again, it's kind of funny.
 
 Their technology is just a touch outdated. Let's put it like this. First, let's
 suppose you *try* to open the Plesk hosting control panel, version 9.2 from
@@ -119,14 +119,16 @@ operation is one file at a time, obviously. There is an in-browser SSH option if
 you want something more sophisticated, but this is present in a frameset, which
 itself contains an `applet` tag for the SSH option, which I could not get to
 work even with full compatibility settings on an ancient version of Internet
-Explorer. Access through FTP (not SCP, to be clear) is possible, if you pay for
-a static IP address. There are, obviously, no secure options -- not even the
-ability to *pay* for one, so far as I see.
+Explorer. (To be clear, Java applets are one of those technologies so old its
+Wikipedia page uses the word "was" instead of "is") Access through FTP (not SCP,
+to be clear) is possible, if you pay for a static IP address. There are,
+obviously, no secure options -- not even the ability to *pay* for one, so far as
+I see.
 
 This very advanced hosting, applets and all, cost $100 a year, and the domain
-registration $35 per year -- these items had steadily increased over time. That
-said, the cost was of secondary concerns. I certainly didn't do this work to
-save $130 a year. Still, I would not say the high cost *helped*.
+registration $35 per year. This cost had steadily increased over time. That
+said, the cost was of secondary concern. I certainly didn't do this work to save
+$130 a year. Still, I would not say the high cost *helped*.
 
 [gh-pages]:      https://pages.github.com/
 [archive]:       https://github.com/TomFinley-archive
