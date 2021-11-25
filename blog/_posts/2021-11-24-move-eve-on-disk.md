@@ -1,5 +1,5 @@
 ---
-title:  "Move EVE on Disk on Windows"
+title:  "Move Steam Installed EVE on Disk on Windows"
 ---
 Steam *generally* makes it pretty easy to move games from one location to
 another. However, the story is a bit different for games that come with their
