@@ -18,6 +18,7 @@ author:
 header_pages:
   - publications.md
   - academic-notes.md
+  - llm/index.md
   - blog.md
 
 permalink_old: /:categories/:year/:title:output_ext

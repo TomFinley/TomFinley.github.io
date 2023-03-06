@@ -9,8 +9,12 @@ layout: default
 
   {{ content }}
 
-  {% assign allPosts = site.categories[page.listcat] %}
-  {% assign posts = allPosts | sort: "date" | sort: "priority", "first" | reverse %}
+  {%- assign allPosts = site.categories[page.listcat] -%}
+  {%- if page.chronology -%}
+    {%- assign posts = allPosts | sort: "date" | reverse | sort: "priority", "first" | reverse -%}
+  {%- else -%}
+    {%- assign posts = allPosts | sort: "date" | sort: "priority", "first" | reverse -%}
+  {%- endif -%}
 
   {%- if posts.size > 0 -%}
     {%- if page.list_title -%}
