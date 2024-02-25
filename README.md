@@ -11,11 +11,23 @@ These are primarily notes for myself, since I tend to keep my sites for a while.
 Greetings, future self! I hope you are still alive and well? In any case, just
 as a reminder:
 
-This uses a static site generator called Jekyll, apparently the current
-preferred mechanism for creating a Github pages site.
+This uses a static site generator called Jekyll. I am using a dev container as
+specified under `Dockerfile`, with VS Code as my primary editor. The means by
+which I set this up was through [Bill Raymond's tutorial][br] on this subject.
+(The tutorial is set up in such a way that it assumes that you are creating a
+totally fresh GitHub Pages site, but it is relatively easy to adapt.)
 
-you set up the bash script `test.sh`. If this is a fresh clone,
-then either set it as executable or just run it using `sh` whenever you need to.
+Anyway, if you are starting from a fresh computer:
+
+1. In VS Code, using the Dev Containers extension, then choosing the "Dev
+   Containers: Open Folder in Container..." This will process the `Dockerfile`
+   and set up the minimal environment. I have not published the image on an
+   image repository, in the hopes that gem is semi-reliable.
+2. Once that remote is set up, in the VS Code terminal we can use `bundle
+   upgrade` and suchlike to make sure everything is properly loaded.
+3. Using the script to serve/update a local configuration can be fine. This will
+   serve it on (in container) `localhost` on port 4000, which the container is
+   configured to expose.
 
 The [Jekyll docs][jekyll-docs] have information on Jekyll itself, with GitHub
 Pages specific information [here][gh-pages]. Questions can be posted
@@ -25,3 +37,4 @@ Pages specific information [here][gh-pages]. Questions can be posted
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
 [gh-pages]:    https://docs.github.com/en/pages
+[billr]: https://gist.github.com/BillRaymond/db761d6b53dc4a237b095819d33c7332
