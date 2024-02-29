@@ -9,7 +9,7 @@ twitter_username: ThomasWFinley
 github_username:  TomFinley
 show_excerpts: true
 markdown: kramdown
-remote_theme: jekyll/minima@7a326eb
+remote_theme: jekyll/minima@8cdd1fe
 
 author:
   name: "Thomas Finley"
