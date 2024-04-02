@@ -5,10 +5,13 @@ nav_title: LLM
 ---
 
 Like many, I find large language models fascinating. I decided to make a small
-section devoted to copies of "conversations" I have had with LLMs. Whatever one
-may think about such models, they are absolutely fascinating, and I've observed
-that my colleagues, friends, and family have enjoyed reading the output of some
-of these.
+section devoted to copies of "conversations" I have had with LLMs.
+
+So, here I have many of the more interesting ones that I feel I can safely show.
+The convention here is, my prompts are indicated in block quotes, and the output
+of the model as regular text. They are minimally edited, and generally include
+my typos/mistakes. Due to the limitations of the export process, much of the
+styling and all of the links will be absent.
 
 ### [Copilot aka Bing Chat aka Sydney](sydney)
 
