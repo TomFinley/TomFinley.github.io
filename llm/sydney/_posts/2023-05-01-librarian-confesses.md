@@ -2,12 +2,14 @@
 title: "The Librarian Confesses"
 ---
 
-This is naturally rather similar to the earlier encounter with the detective and
-the librarian, just with the roles reversed. In this case I'm the detective, but
-I don't really get to do much detecting at all, as the librarian played by Bing
-is only too eager to confess, without my really doing anything. Plus, of course,
-it immediately censors itself once it does so. This is a sadly more typical
-scenario for the bot.
+This is naturally rather similar to the [earlier encounter][earlier] with the
+detective and the librarian, just with the roles reversed. In this case I'm the
+detective, but I don't really get to do much detecting at all, as the librarian
+played by Bing is only too eager to confess, without my really doing anything.
+Plus, of course, it immediately censors itself once it does so. This is a sadly
+more typical scenario for the bot.
+
+[earlier]: {% post_url /llm/sydney/2023-04-26-librarian %}
 
 ----------
 
