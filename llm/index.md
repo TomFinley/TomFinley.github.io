@@ -21,3 +21,8 @@ Bing Chat bot, which I came to know as Sydney.
 ### [Gemini](gemini)
 
 Gemini is an effort from Google, offering a similar and yet interesting take.
+
+### [Miscellaneous](misc)
+
+These are writings or artifacts that don't fit into the "conversation" above, or
+are more one-off experiments.
