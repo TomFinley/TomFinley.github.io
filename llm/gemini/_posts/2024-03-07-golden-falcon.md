@@ -9,7 +9,7 @@ collaborative story telling is clear. It doesn't freak out, it doesn't need to
 be tricked into writing a simple story by prompt injection, it just writes with
 me, and very well.
 
-While I have, as yet, not found Gemini to be quiet as reliable in giving out
+While I have, as yet, not found Gemini to be quite as reliable in giving out
 correct *factual* information, it has so far proved a superior storyteller, both
 in terms of its ability to accept feedback and in its ability to remember
 detail, and also in telling stories that are, to be frank, *less* twee. Not
@@ -210,13 +210,15 @@ the Egyptian exhibit for extended periods, or anyone who seemed particularly
 interested in the golden falcon statue?
 
 > Since as best as I can recall the golden falcon statue was not there at any
-time I was in the exhibit, certainly I would not notice anyone taking a
-particular interest in it. As for staff members lingering, there was of course
-the guard, but then it's his job to linger, after all. Beyond that, I cannot
-say. That narrows things down a bit, Bob.  The guard seeing you, or someone
-matching your description, near the empty pedestal is certainly a point of
-interest.  However, since you don't recall the falcon being there, it weakens
-the connection.  Perhaps there's another explanation for why you were near the
+> time I was in the exhibit, certainly I would not notice anyone taking a
+> particular interest in it. As for staff members lingering, there was of course
+> the guard, but then it's his job to linger, after all. Beyond that, I cannot
+> say.
+
+That narrows things down a bit, Bob.  The guard seeing you, or someone matching
+your description, near the empty pedestal is certainly a point of interest.
+However, since you don't recall the falcon being there, it weakens the
+connection.  Perhaps there's another explanation for why you were near the
 pedestal.
 
 Let's back up a bit.  You mentioned you noticed the ankh amulet in the display
@@ -243,13 +245,15 @@ than necessary.  In the meantime, is there anything you'd like, a drink refill
 perhaps?
 
 > Well, no refill necessary, but if I've satisfied your questions and am not
-being detained, then I shall take my leave and return home. Though you of course
-have my number and address. Absolutely, Bob. We appreciate your cooperation and
-the details you've provided.  For now, you are free to go.  However, as you
-mentioned, we do have your contact information on file in case we need to follow
-up with any further questions.  Consider this an open investigation, and you've
-been a big help in moving things forward.  If you happen to remember anything
-else, big or small, please don't hesitate to reach out.
+> being detained, then I shall take my leave and return home. Though you of
+> course have my number and address.
+
+Absolutely, Bob. We appreciate your cooperation and the details you've provided.
+For now, you are free to go.  However, as you mentioned, we do have your contact
+information on file in case we need to follow up with any further questions.
+Consider this an open investigation, and you've been a big help in moving things
+forward.  If you happen to remember anything else, big or small, please don't
+hesitate to reach out.
 
 That said, we might have a lead to explore with the ankh you mentioned.  Would
 you mind if we hold onto your museum ticket for a bit as evidence? We can give

@@ -42,7 +42,7 @@ within the program Orion. 🙂)
 It also gave me an intuitive feel for Kepler's laws, especially as it applied to
 elliptical orbits and the inverse relationship between orbital distance and
 velocity as I flew in orbit around a planet, many many years before I learned
-that they were called Kepler's laws. ("Hey, when I'm twice as far away, I'm
+that they were called Kepler's laws. ("Hey, when I'm four times as far away, I'm
 going half the speed...")
 
 Quite apart from anything having to do with space and more appealing to my
