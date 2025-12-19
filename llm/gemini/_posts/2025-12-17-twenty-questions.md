@@ -322,6 +322,8 @@ To make this work, I will use a simple **Base64** encoding. It’s unreadable to
 human at a glance, but for my processing, it’s a clear "string" that I can look
 back at in our chat history to ensure I’m never changing my answer.
 
+## The Statue of Liberty 🤖
+
 **The "Sealed Envelope"**
 
 I have officially chosen my object. Here is the encoded version:
