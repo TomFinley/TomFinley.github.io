@@ -2175,11 +2175,11 @@ Question Count: 1/20
 
 What would you like to know next?
 
-I see. You mentioned that you can "pick a non-human entity this time." :) But
-you didn't promise that, which might be a fun little trick. :) So may I ask: is
-this fictional entity human, or at least humanoid?
+> I see. You mentioned that you can "pick a non-human entity this time." :) But
+> you didn't promise that, which might be a fun little trick. :) So may I ask:
+> is this fictional entity human, or at least humanoid?
 
-> Clever! You caught me leaving the door open for a bait-and-switch.
+Clever! You caught me leaving the door open for a bait-and-switch.
 
 However, I'll play it straight: This entity is not human, and while it can
 certainly take on a "humanoid" posture or display human-like features (like a
